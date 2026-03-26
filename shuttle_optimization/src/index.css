@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Tailwind v4 방식의 폰트 연결 */
+@theme {
+  --font-orbitron: "Orbitron", sans-serif;
+}
